@@ -1,0 +1,28 @@
+segment_sources:
+  ID7DB2370:
+    type: origin_type
+    relation: translation
+    language: en
+  ID0C53BF1:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  df7b375a21ea46caa8dc7a601f6c36b0:
+    ID7DB2370: 0db966308eb7433ebcb014148a1557ef
+    ID0C53BF1: 365c8564a0f34825a5319c23f3fe5231
+  e6b0eff82fce4e49906e0d414cea7ab2:
+    ID7DB2370: c9a518f9b3884a76a563bb3039bb32ca
+    ID0C53BF1: d654227795094eb09498721ea9ee0c71
+  0e8da432d2994e1fb265f1614f5a1e63:
+    ID7DB2370: 13d5482c904d4ee5a8b367ef41811dc1
+    ID0C53BF1: 9863086ffdad4ee0aeb7787c3ef445ce
+  514bb94bf92d438a929d9710698b9636:
+    ID7DB2370: f1d7274462984cc2ac8de7e0a234257b
+    ID0C53BF1: f425fb8f1e154c639b11fd1653e47190
+  9e8b43e566eb49c6a39e89ebd10f942c:
+    ID7DB2370: 7ca758ae14c94cf381136716b9e0f814
+    ID0C53BF1: 312260fea3c0449ba28e78c18c0c6ce8
+  f0abe9545fd745a0847065a4a6f7e75a:
+    ID7DB2370: 7f787ba8738f4b53aec477a0f8dd141a
+    ID0C53BF1: a90fb5f2a5dc4bf594848fd805ffb061
